@@ -51,13 +51,6 @@ html,body{
     text-align: center;
 }
 
-#nav>input{
-    padding: 10px 5px;
-    border-radius: 10px;
-    border: 1px solid #dadada;
-    text-transform: uppercase;
-}
-
 #text{
     padding: 30px 50px;
     position: relative;
@@ -158,12 +151,6 @@ html,body{
     font-weight: 500;
     width: 70%;
     margin-top: 50px;
-}
-#text1>h5{
-    color: #8873EF;
-    transform: rotate(-20deg);
-    position: absolute;
-    left: -2%;
 }
 
 #page2{
